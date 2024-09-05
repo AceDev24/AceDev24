@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Software developer working remotely since 2015 🚀</div>  
+### <div align="center">Software developer working remotely</div>  
   
 
 - 🔭 I’m currently working on Java, Python, C# projects.  
