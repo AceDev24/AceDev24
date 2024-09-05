@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm a full-time full-stack freelance developer working remotely since 2015 🚀</div>  
+### <div align="center">Software developer working remotely since 2015 🚀</div>  
   
 
-- 🔭 I’m currently working on Java, Python projects.  
+- 🔭 I’m currently working on Java, Python, C# projects.  
   
 
-- 🌱 I have rich experience with MERN, Laravel, Asp.net.  
+- 🌱 I have rich experience with MERN, Laravel, Asp.net, PHP.  
   
 
 - ❓ Ask me about anything related to object oriented programming language and outstanding testing.  
